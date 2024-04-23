@@ -1,0 +1,2 @@
+# Development-of-an-IoT-Integrated-Sleep-Quality-Monitoring-System-Using-Logistic-Regression-Algorithm
+In this project, I developed an innovative array of machine learning models (Logistic Regression, Support Vector Machine, Artificial Neural Network, and Random Forest) on Sleep Quality Data. The aim was to leverage machine learning techniques to analyze various sleep-related metrics and categorize sleep quality to provide personalized insights.
